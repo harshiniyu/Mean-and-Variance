@@ -1,5 +1,3 @@
-![image](https://github.com/harshiniyu/Mean-and-Variance/assets/144979786/530cfc93-bfc6-490a-93f7-1667f70b48fd)#  Mean and variance of a discrete  distribution
-
 
 # Aim : 
 
